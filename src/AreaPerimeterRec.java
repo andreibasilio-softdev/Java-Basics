@@ -1,6 +1,7 @@
 // Basilio, Andrei Kyle I.
 // 2nd year BSIT majoring in Web Technology.
 // 10-04-26
+//Project no.2
 // Console based Area & Perimeter rectangle calculator using the variables and basic arithmetic operations.
 
 public class AreaPerimeterRec {
