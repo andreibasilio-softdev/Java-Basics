@@ -31,10 +31,10 @@ public class GroceryShopCalc {
         double salesTax = (subtotal - discount) * 0.12; // Formula for the sales tax.
         double finalTotal = (subtotal -discount) + salesTax; //Formula for the final total.
 
-        System.out.printf("The subtotal of the grocery is %.2f\n", subtotal); // Prints the result of the program.5
-        System.out.printf("The discount of the grocery is %.2f\n", discount);
-        System.out.printf("The sales tax of the grocery is %.2f\n", salesTax);
-        System.out.printf("The final total of the grocery is %.2f\n\n", finalTotal);
+        System.out.printf("The subtotal of the grocery is PHP %.2f\n", subtotal); // Prints the result of the program.5
+        System.out.printf("The discount of the grocery is PHP %.2f\n", discount);
+        System.out.printf("The sales tax of the grocery is PHP %.2f\n", salesTax);
+        System.out.printf("The final total of the grocery is PHP %.2f\n\n", finalTotal);
         System.out.println("Thank you for your shopping!");
     }
 }
