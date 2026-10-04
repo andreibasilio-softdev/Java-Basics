@@ -1,6 +1,7 @@
 // Basilio, Andrei Kyle I.
 // 2nd year BSIT majoring in Web Technology
 // 10-02-26
+//Project no.1
 // A simple console invoice program using the \n, \", \t, print, and println for formatting and printing the program outputs.
 
 public class ConsoleInvoice {
